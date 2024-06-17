@@ -4,4 +4,4 @@ layout: home
 ---
 
 This is Jingrui & Jiayi's Instagram!
-![DSC07848.jpg](https://postimg.cc/FYrjYQB2)
+![DSC07848.jpg](https://i.postimg.cc/Dws5Yvdy/DSC07848.jpg)
