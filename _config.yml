@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Jingrui & Jiayi Portfolios
+description: Cannot be described.
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
@@ -9,3 +9,5 @@ aux_links:
 
 logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
+
+$link-color: $black-000;
